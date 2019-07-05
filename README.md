@@ -10,11 +10,11 @@ But-Always 的个人博客
 
 ### 最新
 
-* [Python的安装](http://ww.wangyanchen.top/articles/2019/07/04/1562229604697.html)
-* [Python爬虫框架——scrapy的基本使用](http://ww.wangyanchen.top/articles/2019/07/04/1562228847883.html)
-* [asar的基本操作](http://ww.wangyanchen.top/articles/2019/07/04/1562228598330.html)
-* [用vue-cli(脚手架)搭建vue项目](http://ww.wangyanchen.top/articles/2019/07/04/1562228400913.html)
-* [VUE 子组件中 $refs 拿不到数据](http://ww.wangyanchen.top/articles/2019/07/04/1562228065394.html)
+* [Python的安装](http://home.wangyanchen.top/articles/2019/07/04/1562229604697.html)
+* [Python爬虫框架——scrapy的基本使用](http://home.wangyanchen.top/articles/2019/07/04/1562228847883.html)
+* [asar的基本操作](http://home.wangyanchen.top/articles/2019/07/04/1562228598330.html)
+* [用vue-cli(脚手架)搭建vue项目](http://home.wangyanchen.top/articles/2019/07/04/1562228400913.html)
+* [VUE 子组件中 $refs 拿不到数据](http://home.wangyanchen.top/articles/2019/07/04/1562228065394.html)
 
 
 
